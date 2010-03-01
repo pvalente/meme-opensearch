@@ -5,6 +5,6 @@
 <Description>Search Yahoo! Meme posts</Description>
 <InputEncoding>UTF-8</InputEncoding>
 <OutputEncoding>UTF-8</OutputEncoding>
-<Image width="16" height="16" type="image/gif">http://d.yimg.com/a/i/ww/met/pa_icons/meme_22_101509.gif</Image>
+<Image width="16" height="16" type="image/ico">http://l.yimg.com/cc/img/global/1266868548/favicon.ico</Image>
  <Url type="text/html" template="http://meme.yahoo.com/search?q={searchTerms}"/>
 </OpenSearchDescription>
